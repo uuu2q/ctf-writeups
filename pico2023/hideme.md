@@ -1,7 +1,7 @@
 ## Details:
 Challenge name: hideme
 
-Category: Forensics, steganography
+Category/tags: Forensics, steganography
 
 Decription:
 Every file gets a flag.
