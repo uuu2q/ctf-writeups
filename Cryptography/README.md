@@ -1,13 +1,13 @@
-# Binary Exploitation Writeups
+# Cryptography Writeups
 
-Here are all the writeups for the binary exploitation category. The table of contents is ordered by year, and then by point values, with the easiest point value problems going first.
+Here are all the writeups for the cryptography category. The table of contents is ordered by year, and then by point values, with the easiest point value problems going first.
 
 ## Table of Contents
 
-### 202X
+### 2023
 
-[example-problem - 50 pts](./example-problem/README.md)
+[HideToSee - 100 pts](./HideToSee/README.md)
 
-[example-problem - 250 pts](./example-problem/README.md)
+[ReadMyCert - 100 pts](./ReadMyCert/README.md)
 
-[example-problem - 500 pts](./example-problem/README.md)
+[rotation - 100 pts](./rotation/README.md)
